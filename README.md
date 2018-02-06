@@ -8,9 +8,9 @@ Ethan Schitzenhofer
 
 Josh Brooks
 
-Herny
+Herny Latshaw
 
-Nick
+Nick Pistolis
 
 ## People Going on the Trip
 The SCRUM team
