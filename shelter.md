@@ -8,3 +8,6 @@
   * Free Wi-Fi
   * Free breakfast
   * Laundry service
+
+## Total Cost:
+2 nights ≈ 160
