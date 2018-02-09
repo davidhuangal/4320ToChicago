@@ -1,8 +1,9 @@
 # Meals
 
-##Saturday:
-###Breakfast: free breakfast at hotel
+## Saturday:
+### Breakfast: 
+* Free breakfast at hotel
 
-###Lunch:
+### Lunch:
 
-###Dinner:
+### Dinner:
