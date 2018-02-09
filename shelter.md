@@ -10,4 +10,4 @@
   * Laundry service
 
 ## Total Cost:
-2 nights ≈ 160
+2 nights ≈ $160
