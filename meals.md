@@ -21,7 +21,7 @@
 #### Lunch:
 * Smoque BBQ
   * $15 limit per person ($75 total)
-  * [Menu](4320ToChicago/Smoque BBQ Menu.pdf)
+  * [Menu](4320ToChicago/SmoqueBBQMenu.pdf)
 #### Dinner:
 * Wendy's (stop on the drive back)
   * 4 for $4 meals ($4 x 5 = 20)
