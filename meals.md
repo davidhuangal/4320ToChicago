@@ -1,10 +1,16 @@
 # Meals
 ## Friday:
 #### Breakfast:
+* Eat breakfast at home before we leave
 #### Lunch:
+* Eat a packed lunch on the way
 #### Dinner:
+* The Purple Pig
+  * $15 limit per person ($75 total)
+  * [Menu](https://thepurplepigchicago.com/wp-content/uploads/2016/08/The-Purple-Pig-Catering-Brochure-10-5-16_PROOF-3.pdf)
+  
 ## Saturday:
-#### Breakfast: 
+#### Breakfast:
 * Free breakfast at hotel
 #### Lunch:
 * Portillo's
