@@ -14,8 +14,15 @@
 #### Dinner:
 * Gino's East of Chicago South Loop
   * Gino's Supreme large deep dish pizza: $30
+### Total: $72.45
 ## Sunday:
 #### Breakfast:
   * Free breakfast at hotel
 #### Lunch:
+* Smoque BBQ
+  * $15 limit per person ($75 total)
+  * Menu provided
 #### Dinner:
+* Wendy's (stop on the drive back)
+  * 4 for $4 meals ($4 x 5 = 20)
+### Total: $95
