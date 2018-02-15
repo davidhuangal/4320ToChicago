@@ -27,7 +27,7 @@
 #### Lunch:
 * Smoque BBQ
   * $15 limit per person ($75 total)
-  * [Menu](/SmoqueBBQMenu.pdf)
+  * [Menu](http://www.smoquebbq.com/smoque_menu.pdf)
 #### Dinner:
 * Wendy's (stop on the drive back)
   * 4 for $4 meals ($4 x 5 = 20)
