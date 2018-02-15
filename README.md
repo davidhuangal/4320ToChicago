@@ -27,6 +27,7 @@ Weekend (Friday, Saturday, Sunday)
 ## Purpose
 Explore downtown Chicago
 
-[Meals](/meals.md)
-
-[Transportation](transportation.md)
+## Trip Information Links
+* [Meals](/meals.md)
+* [Transportation](transportation.md)
+* [Stay](shelter.md)
