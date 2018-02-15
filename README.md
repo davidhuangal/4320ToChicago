@@ -22,7 +22,9 @@ Chicago
 $600
 
 ## Length
-Weekend
+Weekend (Friday, Saturday, Sunday)
 
 ## Purpose
 Explore downtown Chicago
+
+[Meals] 4320ToChicago/meals.md
