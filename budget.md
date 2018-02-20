@@ -2,7 +2,7 @@
 ## Starting budget = $600
 ### Meals
 
-$75 + $72.45 + $75 = $222.45
+3 X $75 = $225
 ### Transportation
 
 $90
@@ -13,4 +13,4 @@ $90
 
 5 X $25 = $125
 
-## Total spending = $597.45
+## Total spending = $600
