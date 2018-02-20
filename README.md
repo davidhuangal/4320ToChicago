@@ -20,7 +20,7 @@ The SCRUM team
 Chicago
 
 ## Budget
-$600
+[$600](budget.md)
 
 ## Length
 Weekend (Friday, Saturday, Sunday)
