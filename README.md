@@ -26,7 +26,7 @@ Chicago
 Weekend (Friday, Saturday, Sunday)
 
 ## Purpose
-Explore downtown Chicago
+Explore and eat in downtown Chicago 
 
 ## Trip Information Links
 * [Meals](/meals.md)
