@@ -7,7 +7,7 @@
 
 ## Saturday
 * Breakfast
-* Museum of Contemporary Art
+* The Bean
   * 10:00 - 12:00 P.M.
 * Lunch
   * 12:30 - 2:00 P.M
