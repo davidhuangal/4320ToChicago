@@ -29,6 +29,5 @@
   * $15 limit per person ($75 total)
   * [Menu](http://www.smoquebbq.com/smoque_menu.pdf)
 #### Dinner:
-* Wendy's (stop on the drive back)
-  * 4 for $4 meals ($4 x 5 = 20)
-### Total: $95
+* Eat at home when we return
+### Total: $75
