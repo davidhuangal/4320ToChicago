@@ -18,7 +18,7 @@
 #### Dinner:
 * Gino's East of Chicago South Loop
   * Gino's Supreme large deep dish pizza: $30
-### Total: $72.45
+### Total: $75
 ## Sunday:
 #### Breakfast:
   * Free breakfast at hotel
