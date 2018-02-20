@@ -15,6 +15,7 @@
 #### Lunch:
 * Portillo's
   * $9 limit per person ($45 total)
+  * [Menu](https://portillos.olo.com/menu/portillos-barnellis-chicago)
 #### Dinner:
 * Gino's East of Chicago South Loop
   * Gino's Supreme large deep dish pizza: $30
