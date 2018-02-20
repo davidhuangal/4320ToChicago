@@ -31,4 +31,4 @@ Explore downtown Chicago
 * [Meals](/meals.md)
 * [Transportation](transportation.md)
 * [Stay](shelter.md)
-* [Activities] (activities.md)
+* [Activities](activities.md)
